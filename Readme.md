@@ -26,7 +26,7 @@ Features: Scene flow estimation from two temporally consecutive monocular images
 **PART1: 01_AF3D**:
 
 <div align="center">
-  <img src="source/Fig1.jpg" width="600"/>
+  <img src="source/fig1.jpg" width="600"/>
 </div>
 
 Features: Asynchronous multi-modal fusion to generate LiDAR point cloud for asynchronous frame.
